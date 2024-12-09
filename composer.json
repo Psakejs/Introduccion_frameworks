@@ -1,0 +1,19 @@
+{
+    "name": "usuario/introduccion_frameworks_php",
+    "description": "Proyecto basico",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":[
+            "app/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Psakejs",
+            "email": "patpampam4@gmail.com"
+        }
+    ],
+    "require": {}
+}
